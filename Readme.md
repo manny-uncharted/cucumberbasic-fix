@@ -3,6 +3,8 @@ This is an sample project to demonstrate how to work with Selenium and cucumber 
 
 Note: this is an update to the version available on their github page as it had issues which hasn't been fixed yet.
 
+I used this project to learn automation with Jenkins
+
 ##More Information
 The complete code base development video is available in ExecuteAutomation YouTube channel 
 
